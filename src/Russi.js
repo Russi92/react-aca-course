@@ -31,7 +31,7 @@ export default function Russi(){
   }
 
 function clickBtn(){
-  alert('i love gogo')
+  alert('i love gogo');
 }
 
 
